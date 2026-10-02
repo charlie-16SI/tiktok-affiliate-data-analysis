@@ -17,7 +17,7 @@ Proyek ini menganalisis performa kampanye **TikTok Affiliate** berdasarkan kombi
 
 ---
 
-## 📈 Metrik Utam (Key Performance Metrics)
+## 📈 Metrik Utama (Key Performance Metrics)
 
 | Metrik | Nilai Total | Deskripsi / Formula |
 | :--- | :--- | :--- |
