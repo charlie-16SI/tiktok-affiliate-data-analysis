@@ -63,7 +63,6 @@ Untuk meningkatkan akurasi keputusan di masa mendatang, disarankan bagi tim *mar
 ---
 
 ## 📁 File & Laporan Lanjutan
-* 📄 **Laporan Presentasi Lengkap (PDF)**: Bisa dilihat di [reports/Hasil_Analisis_TikTok_Affiliate.pdf](reports/Hasil_Analisis_TikTok_Affiliate.pdf)
 * 🌐 **Live Web Portfolio**: [portofoliocharlie.odoo.com](https://portofoliocharlie.odoo.com)
 
 ---
